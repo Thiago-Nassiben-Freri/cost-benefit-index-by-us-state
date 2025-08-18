@@ -1,52 +1,52 @@
 state,crime_rate_by_100k
-Alabama,4.727
-Alaska,5.359
-Arizona,4.940
-Arkansas,5.899
-California,4.720
-Colorado,6.091
-Connecticut,3.312
-Delaware,4.355
-District of Columbia,4.229
-Florida,3.922
-Georgia,4.415
-Hawaii,5.077
-Idaho,2.466
-Illinois,3.545
-Indiana,3.924
-Iowa,3.700
-Kansas,4.823
-Kentucky,3.818
-Louisiana,6.408
-Maine,2.421
-Maryland,3.619
-Massachusetts,2.415
-Michigan,3.200
-Minnesota,4.527
-Mississippi,4.494
-Missouri,5.605
-Montana,4.711
-Nebraska,4.152
-Nevada,4.314
-New Hampshire,2.344
-New Jersey,2.512
-New Mexico,6.462
-New York,3.185
-North Carolina,4.872
-North Dakota,4.577
-Ohio,4.009
-Oklahoma,5.870
-Oregon,5.610
-Pennsylvania,3.678
-Rhode Island,2.722
-South Carolina,5.973
-South Dakota,4.415
-Tennessee,5.658
-Texas,4.937
-Utah,5.190
-Vermont,2.607
-Virginia,3.121
-Washington,5.759
-West Virginia,3.155
-Wisconsin,3.295
-Wyoming,3.455
+Alabama,2.103
+Alaska,2.604
+Arizona,2.206
+Arkansas,2.849
+California,2.834
+Colorado,3.353
+Connecticut,1.709
+Delaware,2.261
+District of Columbia,5.458
+Florida,1.807
+Georgia,2.175
+Hawaii,1.857
+Idaho,1.044
+Illinois,2.030
+Indiana,1.875
+Iowa,1.721
+Kansas,2.524
+Kentucky,1.776
+Louisiana,3.178
+Maine,1.223
+Maryland,2.497
+Massachusetts,1.415
+Michigan,2.004
+Minnesota,1.964
+Mississippi,1.790
+Missouri,2.554
+Montana,2.276
+Nebraska,2.206
+Nevada,2.934
+New Hampshire,0.996
+New Jersey,1.743
+New Mexico,3.637
+New York,2.188
+North Carolina,2.456
+North Dakota,2.209
+Ohio,1.979
+Oklahoma,2.562
+Oregon,2.917
+Pennsylvania,1.845
+Rhode Island,1.289
+South Carolina,2.664
+South Dakota,1.968
+Tennessee,2.990
+Texas,2.644
+Utah,1.864
+Vermont,2.004
+Virginia,1.895
+Washington,3.244
+West Virginia,1.461
+Wisconsin,1.505
+Wyoming,1.661
