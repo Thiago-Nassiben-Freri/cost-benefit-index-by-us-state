@@ -1,5 +1,5 @@
 ## About
-A simple data analysis using Python libraries. I used some available data on the fifty US states plus the District of Columbia to do a "cost-benefit" analysis of living in these states.
+This is a simple data analysis project using Python and its libraries, such as Pandas, Matplotlib and Numpy. Basically, I used data from various sources to abstract it into a statistical index, which I called "Cost-Benefit Index". I used data normalization to obtain the index between 0 and 1. 
 
 ## Data Source
 https://worldpopulationreview.com/state-rankings/cost-of-living-index-by-state 
