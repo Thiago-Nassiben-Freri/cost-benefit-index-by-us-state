@@ -1,7 +1,10 @@
 ## About 🖊️
 This is a simple data analysis project using Python and its libraries, such as Pandas, Matplotlib and Numpy. Basically, I used data from various sources to abstract it into a statistical index, which I called "Cost-Benefit Index". I used data normalization to obtain the index between 0 and 1. 
 
-
+## Project Structure
+`/charts` — Stores the charts  
+`/datasets` — Stores the datasets  
+`main.ipynb` — Main script  
 
 ## Data Source 📚
 [World Population - Cost of Living Index by State](https://worldpopulationreview.com/state-rankings/cost-of-living-index-by-state)  
